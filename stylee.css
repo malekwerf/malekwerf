@@ -1,0 +1,275 @@
+body {
+    font-family: calibri , sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #001f3f;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.profile img {
+    max-width: 200px;
+    margin-right: 20px;
+}
+
+.details {
+    max-width: 600px;
+}
+
+.details h2 {
+    margin-top: 0;
+}
+.about {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #e0e0e0;
+}
+
+
+.experience {
+    padding: 50px 20px;
+    background-color: #fff;
+    
+}
+
+.experience h2 {
+    text-align: center;
+}
+
+.job {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.timeline {
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+    color: #001f3f;
+}
+
+.details {
+    max-width: 600px;
+    padding-left: 20px;
+}
+
+.details h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: #001f3f;
+}
+
+.details h4 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #001f3f;
+    font-weight: normal;
+}
+
+/* Section Projet Académique */
+.academic-projects {
+    padding: 50px 20px;
+    background-color: #fffdfd;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.academic-projects h2 {
+    font-size: 1.6em;
+    text-align: center;
+}
+
+.academic-projects ol {
+    padding-left: 20px;
+}
+
+.academic-projects .project {
+    margin-bottom: 20px;
+}
+
+.academic-projects .project h3 {
+    font-size: 1.4em;
+    color: #001f3f;
+    margin: 0 0 10px 0;
+}
+
+.academic-projects .tools {
+    display: flex;
+    gap: 10px;
+}
+
+.academic-projects .tools img {
+    width: 40px;
+    height: 50px;
+    object-fit: contain;
+}
+/* Section Formation */
+.education {
+    padding: 50px 20px;
+    background-color: #e0e0e0;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.education h2 {
+    font-size: 1.6em;
+    text-align: center;
+}
+
+.education .degree {
+    margin-bottom: 20px;
+}
+
+.education .degree .timeline {
+    font-weight: bold;
+    color: #001f3f;
+    margin-bottom: 5px;
+}
+
+.education .degree .details h3 {
+    font-size: 1.4em;
+    color: #001f3f;
+    margin: 0 0 5px 0;
+}
+
+.education .degree .details h4 {
+    font-size: 1.2em;
+    color: #0074D9;
+    margin: 0 0 5px 0;
+}
+
+.education .degree .details p {
+    font-size: 1em;
+    color: #111;
+}
+
+/* Section Centre d'intérêt */
+.centre {
+    padding: 20px;
+    background-color: #d4d0d0;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.centre h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    color: #010101;
+    margin-bottom: 15px;
+    
+    padding-bottom: 5px;
+}
+
+.centre ul {
+    
+    padding: 12;
+}
+
+.centre ul li {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #161616;
+    padding: 5px 0;
+    
+}
+
+.centre ul li:last-child {
+    border-bottom: none;
+}
+
+/* Section Langues */
+.langue {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.langue h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: #131212;
+    margin-bottom: 15px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.langue ul {
+    
+    padding: 12;
+}
+
+.langue ul li {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #141414;
+    padding: 5px 0;
+    
+}
+
+.langue ul li:last-child {
+    border-bottom: none;
+}
+
+footer {
+    background-color: #001f3f;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.social-media {
+    list-style: none;
+    padding: 0;
+}
+
+.social-media li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.social-media li a img {
+    width: 30px;
+    height: 30px;
+}

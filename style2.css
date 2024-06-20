@@ -1,0 +1,132 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #001f3f;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+#tools-used {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tool-item {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.tool-item img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 80%;
+    max-height: 100%;
+}
+
+.tool-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.tool-item:hover .tool-info {
+    background-color: rgba(255, 255, 255, 1);
+}
+section {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #333;
+    transition: color 0.3s ease-in-out;
+}
+
+.tool-item:hover h3 {
+    color: #ff6f61;
+}
+
+p {
+    margin: 0;
+    color: #050505;
+}
+
+.image-row {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Espace entre les images */
+}
+
+
+
+.project-image {
+    max-width: 50%; /* Ajustez la taille selon vos besoins */
+    height: auto;
+
+    transition: transform 0.3s ease-in-out; /* Ajoute une transition douce */
+}
+
+.project-image:hover {
+    transform: scale(1.1);
+}
+
+footer {
+    background-color: #001f3f;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.social-media {
+    list-style: none;
+    padding: 0;
+}
+
+.social-media li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.social-media li a img {
+    width: 30px;
+    height: 30px;
+}
