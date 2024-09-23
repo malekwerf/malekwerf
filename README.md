@@ -37,8 +37,8 @@ Here are a few projects I have been working on:
 - Open-source contributions
 
 ## 📫 How to Reach Me:
-- **Email**: malekouerfelli@example.com
-- **LinkedIn**: [Malek Ouerfelli](https://www.linkedin.com/in/malek-ouerfelli)
+- **Email**: malekwerfelli0@gmail.com
+- **LinkedIn**: [Malek Ouerfelli]([https://www.linkedin.com/in/malek-ouerfelli](https://www.linkedin.com/in/malek-werfelli-585a19221/))
 - **GitHub**: [@malekwerf](https://github.com/malekwerf)
 
 ## 📊 GitHub Stats:
