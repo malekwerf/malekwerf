@@ -1,10 +1,49 @@
-- 👋 Hi, I’m @malekwerf
-- 👀 I’m interested in artificial intelligence .and developping programs..
-- 🌱 I’m currently learning .Business Intelligent..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Malek Ouerfelli (@malekwerf)
 
-<!---
-malekwerf/malekwerf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about **artificial intelligence** and enjoy developing **programs** to solve complex problems. Currently, I am focusing on learning more about **Business Intelligence**.
+
+## 👀 Interests:
+- Artificial Intelligence (AI)
+- Data Science
+- Business Intelligence (BI)
+- Web and Mobile Development
+- Open-Source Contributions
+
+## 🌱 Currently Learning:
+- Advanced **Business Intelligence** techniques.
+- **AI algorithms** and **machine learning** models.
+
+## 💼 Projects:
+Here are a few projects I have been working on:
+- **Insurance Policy Management App**: A mobile app to manage insurance policies, built with React Native.
+- **E-Commerce Sports Clothing Website**: A full-stack web app for selling sports clothes online.
+- **COVID-19 Performance Dashboard**: An interactive dashboard to track COVID-19 performance metrics globally.
+
+## 💻 Technologies & Tools:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+- **Programming Languages**: Java, JavaScript, PHP, C++, CSS, MySQL
+- **Frameworks**: React.js, Node.js
+- **BI Tools**: Power BI, Tableau, SQL Server
+- **Version Control**: Git, GitHub
+
+## 💞️ Open to Collaborate On:
+- AI and machine learning projects
+- BI-related projects
+- Web development initiatives
+- Open-source contributions
+
+## 📫 How to Reach Me:
+- **Email**: malekouerfelli@example.com
+- **LinkedIn**: [Malek Ouerfelli](https://www.linkedin.com/in/malek-ouerfelli)
+- **GitHub**: [@malekwerf](https://github.com/malekwerf)
+
+## 📊 GitHub Stats:
+![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=malekwerf&show_icons=true&theme=radical)
+
+## 🔝 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekwerf&layout=compact&theme=radical)
+
