@@ -27,7 +27,7 @@ Here are a few projects I have been working on:
 
 - **Programming Languages**: Java, JavaScript, PHP, C++, CSS, MySQL
 - **Frameworks**: React.js, Node.js,Django
-- **BI Tools**: Power BI, Tableau, SQL Server
+- **BI Tools**: Power BI, Tableau,R, SQL Server
 - **Version Control**: Git, GitHub
 
 ## 💞️ Open to Collaborate On:
