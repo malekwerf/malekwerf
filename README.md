@@ -26,7 +26,7 @@ Here are a few projects I have been working on:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-- **Programming Languages**: Java, JavaScript, PHP, C++, CSS, MySQL
+- **Programming Languages**:Python, Java, JavaScript, PHP, C++, CSS, MySQL
 - **Frameworks**: React.js, Node.js,Django
 - **BI Tools**: Power BI, Tableau,R, SQL Server
 - **Version Control**: Git, GitHub
