@@ -18,7 +18,7 @@ Here are a few projects I have been working on:
 - **Insurance Policy Management App**: A mobile app to manage insurance policies, built with React Native.
 - **E-Commerce Sports Clothing Website**: A full-stack web app for selling sports clothes online.
 - **COVID-19 Performance Dashboard**: An interactive dashboard to track COVID-19 performance metrics globally.
-- R Project: Enhanced statistical analysis using advanced techniques, automated reporting with rmarkdown, and an interactive Shiny web application for visualizing analysis results
+- **R Project**: Enhanced statistical analysis using advanced techniques, automated reporting with rmarkdown, and an interactive Shiny web application for visualizing analysis results
 
 ## 💻 Technologies & Tools:
 
