@@ -19,7 +19,7 @@ Here are a few projects I have been working on:
 - **E-Commerce Sports Clothing Website**: A full-stack web app for selling sports clothes online.
 - **COVID-19 Performance Dashboard**: An interactive dashboard to track COVID-19 performance metrics globally.
 - **R Project**: Enhanced statistical analysis using advanced techniques, automated reporting with rmarkdown, and an interactive Shiny web application for visualizing analysis results
-
+- **Data Warehouse Project for BBT entreprise**: I implemented a data warehouse for BBT to optimize decision-making by developing the ETL process and integrating Power BI for enhanced data visualization and reporting.
 ## 💻 Technologies & Tools:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -27,7 +27,7 @@ Here are a few projects I have been working on:
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 - **Programming Languages**:Python, Java, JavaScript, PHP, C++, CSS, MySQL
-- **Frameworks**: React.js, Node.js,Django
+- **Frameworks**: React.js, Node.js,Django,Spark,Hadoop
 - **BI Tools**: Power BI, Tableau,R, SQL Server
 - **Version Control**: Git, GitHub
 
